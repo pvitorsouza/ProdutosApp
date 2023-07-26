@@ -10,3 +10,5 @@ C:\aulasCoti\ProdutosApp\ProdutosApp.Data\obj\Debug\net7.0\ProdutosApp.Data.dll
 C:\aulasCoti\ProdutosApp\ProdutosApp.Data\obj\Debug\net7.0\refint\ProdutosApp.Data.dll
 C:\aulasCoti\ProdutosApp\ProdutosApp.Data\obj\Debug\net7.0\ProdutosApp.Data.pdb
 C:\aulasCoti\ProdutosApp\ProdutosApp.Data\obj\Debug\net7.0\ref\ProdutosApp.Data.dll
+C:\aulasCoti\ProdutosApp\ProdutosApp.Data\bin\Debug\net7.0\ProdutosApp.Data.runtimeconfig.json
+C:\aulasCoti\ProdutosApp\ProdutosApp.Data\obj\Debug\net7.0\ProdutosApp.Data.genruntimeconfig.cache
